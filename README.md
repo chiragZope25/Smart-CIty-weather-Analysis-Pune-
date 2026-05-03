@@ -1,1 +1,1 @@
-Tableau Link :-https://public.tableau.com/authoring/SmartcityweatherAnalysispune/Dashboard1#1 
+Tableau Link :-https://public.tableau.com/app/profile/chiranjiv.zope/viz/samrt/Dashboard1#1 
